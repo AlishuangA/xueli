@@ -1,0 +1,107 @@
+*{
+	padding:0px;
+	margin:0;
+}
+a{
+	text-decoration:none;
+}
+li{
+	list-style:none;
+}
+.a{
+	height:30px;
+	background:#f4f4f4;
+}
+.ai{
+	width:1200px;
+	height:30px;
+	background:#f4f4f4;
+	margin:0 auto;
+}
+.aia{
+	float:left;
+	line-height:30px;
+}
+.aib{
+	float:right;
+	line-height:30px;
+}
+.aib a{
+	color:#333333;
+}
+.b{
+	height:155px;
+	background:#ffffff;
+}
+.bi{
+	width:1200px;
+	height:155px;
+	background:#ffffff;
+	margin:0 auto;
+}
+.bia{
+	float:left;
+	margin-top: 1px;
+}
+.bib{
+	width:409px;
+	height:41px;
+	margin-top:40px;
+	margin-left:370px;
+	border:1px solid #f83838;
+	float:left;
+}
+.bie{
+	width:98px;
+	height:41px;
+	margin-top:40px;
+	margin-left:0px;
+	background:#f83838;
+	text-align:center;
+	font-size:14px;
+	line-height:42px;
+	float:left;
+}
+.bic{
+	margin-top:36px;
+	float:left;
+}
+.bii{
+	margin-bottom:0px;
+}
+.bid{
+	margin-top:122px;
+}
+.c{
+	height:655px;
+	background:#fbfbfb;
+}
+.ci{
+	width:1200px;
+	height:655px;
+	background:fbfbfb;
+	margin:0 auto;
+}
+
+.huizi{
+	margin-left: 80px;
+	margin-bottom: 10px;
+	color: #666666;
+}
+.cost{
+	margin-left: 80px;
+	padding-bottom: 10px;
+}
+
+
+
+.d{
+	height:245px;
+	background:#2e2e2e;
+}
+.di{
+	width:1200px;
+	height:245px;
+	background:#2e2e2e;
+	margin:0 auto;
+}
